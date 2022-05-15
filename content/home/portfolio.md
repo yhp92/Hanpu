@@ -28,10 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Python
+      tag: Python
     - name: GIS
       tag: GIS
     - name: R 
-      tag: R
+      tag: R 
     - name: Machine Learning
       tag: ML
     - name: JavaScript
