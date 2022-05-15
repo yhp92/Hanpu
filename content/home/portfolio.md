@@ -28,14 +28,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: R
+    - name: GIS
+      tag: GIS
+    - name: R 
       tag: R
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: GIS
-      tag: GIS
+    - name: JavaScript
+      tag: JS
+
 
     
     
