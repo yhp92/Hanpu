@@ -9,5 +9,5 @@ external_link: https://yhp92.github.io/MUSA550-final/
 image:
   filename: wx20220515-182738-2x.png
   focal_point: Smart
-  preview_only: true
+  preview_only: True
 ---
