@@ -3,7 +3,7 @@
 
 Hanpu tips:
 1. change tags: Hanpu/content/home/portfolio.md
-2. add project cover pictures: Hanpu/content/project/[project_name]/index.md - preview_only:true
+2. add project cover pictures: Hanpu/content/project/[project_name]/ upload a featured.jpg
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
