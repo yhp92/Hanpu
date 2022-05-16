@@ -3,6 +3,8 @@ title: West Nile Virus prediction in Chicago
 date: 2022-05-16T20:20:49.865Z
 draft: false
 featured: false
+tags:
+  - Python
 image:
   filename: featured
   focal_point: Smart
