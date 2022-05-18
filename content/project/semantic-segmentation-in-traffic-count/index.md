@@ -5,6 +5,7 @@ draft: false
 featured: false
 tags:
   - ML
+  - python
 external_link: https://docs.google.com/presentation/d/1iU7Lo0vghzCAA4kcoGuLcnq3qfjGMfZ4YJJ-nz4KhLA/edit?usp=sharing
 image:
   filename: featured
