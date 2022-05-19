@@ -9,7 +9,7 @@ status:
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: mailto:hanpu_yao@outlook.com
   - display:
       header: false
     icon_pack: fab
