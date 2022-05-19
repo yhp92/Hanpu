@@ -1,5 +1,5 @@
 ---
-title: Beepo - An ambulances dispatcher
+title: Beepo - An ambulance dispatcher
 date: 2022-05-16T02:09:09.973Z
 draft: false
 featured: false
