@@ -1,8 +1,7 @@
 ---
 title: Hanpu Yao
 role: ""
-bio: "I seek to discover how geospatial intelligence and data analysis can shape
-  our world. "
+bio: ""
 superuser: true
 status:
   icon: ☕️
