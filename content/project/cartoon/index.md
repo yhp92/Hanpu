@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - R
-external_link: https://github.com/yhp92/Predictive-policing/blob/main/508HW3.html
+external_link: https://yhp92.github.io/Predictive-policing/
 image:
   filename: featured
   focal_point: Smart
